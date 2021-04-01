@@ -42,5 +42,6 @@ a {
 img {
   display: block;
   width: 600px;
+  height: 400px;
   margin: 0 auto;
 }
